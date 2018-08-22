@@ -1,0 +1,7 @@
+## YAML Template.
+name: RunicHub
+author: runelynx
+description: "Bukkit plugin for Runic Hub server."
+main: io.github.runelynx.runichub.RunicHub
+version: 0.1
+commands:

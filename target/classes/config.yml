@@ -1,0 +1,17 @@
+## Runic Hub Plugin Config File
+---
+## Test Messages
+testAnnouncement: "Testing!"
+testPersonalMessage: "Testing personal message!"
+
+## MySQL Connection details
+dbHost: localhost
+dbPort: 3301
+dbDabatase: rpgame
+dbDatabase: rpgame
+dbUser: User
+dbPassword: pw
+
+
+## Settings
+ServerName: SetThis
